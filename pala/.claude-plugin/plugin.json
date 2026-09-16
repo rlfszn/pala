@@ -1,0 +1,8 @@
+{
+  "name": "pala",
+  "description": "Il sistema che fa l'80% del lavoro: trova aziende che perdono soldi, scrivi il primo messaggio, costruisci la demo, fatti pagare ogni mese. Scritto per chi non ha mai usato Claude Code.",
+  "version": "0.1.0",
+  "author": { "name": "Elia Rolfi", "url": "https://eliarolfi.com" },
+  "homepage": "https://eliarolfi.com",
+  "repository": "https://github.com/rlfszn/pala"
+}

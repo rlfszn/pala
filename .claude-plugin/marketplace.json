@@ -1,0 +1,16 @@
+{
+  "name": "pala",
+  "owner": { "name": "Elia Rolfi", "url": "https://eliarolfi.com" },
+  "plugins": [
+    {
+      "name": "pala",
+      "source": "./pala",
+      "description": "Ti guida passo dopo passo a installare l'AI nelle aziende italiane e a farti pagare ogni mese. Per chi parte da zero.",
+      "version": "0.1.0",
+      "author": { "name": "Elia Rolfi" },
+      "homepage": "https://eliarolfi.com",
+      "license": "LicenseRef-PALA-personale",
+      "keywords": ["ai", "automazioni", "pmi", "italiano", "business"]
+    }
+  ]
+}
