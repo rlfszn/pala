@@ -19,10 +19,13 @@ Poi scrivi `/pala:inizia` e ti guida lui.
 | Skill | Cosa fa |
 |---|---|
 | `/pala:inizia` | Il primo giorno: la tua zona, 10 aziende vere, la chiamata di prova, il primo messaggio |
+| `/pala:agente-vocale` | Costruisce l'agente che risponde al telefono: demo in 10 minuti, appuntamenti, telefono vero, consegna |
 | `/pala:aziende` | Liste più lunghe e ordinate per priorità (qui si crea la chiave di Google Maps, guidata) |
 | `/pala:messaggio` | Il messaggio giusto per ogni tipo di attività e ogni situazione |
 
-In arrivo: demo, incontro, proposta, installazione, gestione del cliente.
+In arrivo: incontro, proposta, gestione del cliente.
+
+Il riferimento completo su cosa può fare un agente vocale è in `pala/riferimenti/agente-vocale-completo.md`.
 
 ## Licenza
 
